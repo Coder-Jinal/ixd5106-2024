@@ -13,4 +13,3 @@ https://designlab.com/figma-101-course/introduction-to-figma
 
 > **Note**: This repository provides essential skills in interaction design that will be applied in later courses. Make sure to review the design tools and best practices introduced here.
 
-

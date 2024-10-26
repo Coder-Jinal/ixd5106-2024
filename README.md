@@ -7,3 +7,10 @@ Students will be introduced to design tools, processes, and best practices as th
 
 # Liinks
 https://designlab.com/figma-101-course/introduction-to-figma
+
+# Images
+![Description of the Image](657bdc21292927e8c1d54fe1_F101_D1_03.jpeg)
+
+> **Note**: This repository provides essential skills in interaction design that will be applied in later courses. Make sure to review the design tools and best practices introduced here.
+
+
